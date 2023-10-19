@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<configuration>
+  <property>
+    <name>dimentionality</name>
+    <value>19</value>
+    <description>Dimensionality of the dataset</description>
+  </property>
+  <property>
+    <name>k</name>
+    <value>5</value>
+    <description>Number of centroids</description>
+  </property>
+  <property>
+    <name>eps</name>
+    <value>1</value>
+    <description>Threshold for stop</description>
+  </property>
+  <property>
+    <name>max_iter</name>
+    <value>2</value>
+    <description>Maximum number of iteration</description>
+  </property>
+</configuration>

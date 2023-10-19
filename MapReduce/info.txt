@@ -1,0 +1,3 @@
+Total Hadoop time -> 290.862 s
+Centers generation time -> 88.366 s
+Total iterations -> 3
